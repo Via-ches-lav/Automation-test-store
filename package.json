@@ -5,7 +5,9 @@
     "main": "index.js",
     "scripts": {
         "mochawesome:clearData": "rm -rf cypress/results mochawesome-report mochawesome.json",
-        "allure:clearData": "rm -rf allure-report allure-results"
+        "cy:testWithAllureReport": "npx cypress run --env allure=true",
+        "allue:clearData": "rm -rf allure-report allure-results",
+        "allue:generateReport": "npx allure generate"
     },
     "author": "",
     "license": "ISC",
