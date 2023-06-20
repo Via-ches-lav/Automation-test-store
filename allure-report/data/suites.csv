@@ -1,4 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Jun 20 20:51:18 EEST 2023","Tue Jun 20 20:51:26 EEST 2023","8667","","","","","","Registration",""
-"passed","Tue Jun 20 20:51:26 EEST 2023","Tue Jun 20 20:51:29 EEST 2023","2862","","","","","","Authorization",""
-"passed","Tue Jun 20 20:50:41 EEST 2023","Tue Jun 20 20:50:56 EEST 2023","15408","","","","","","Product can be found",""
